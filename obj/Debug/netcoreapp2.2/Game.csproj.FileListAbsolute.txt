@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Game.Solution/Game/obj/Debug/netcoreapp2.2/Game.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Game.Solution/Game/obj/Debug/netcoreapp2.2/Game.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Game.Solution/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Game.Solution/Game/obj/Debug/netcoreapp2.2/Game.AssemblyInfo.cs
